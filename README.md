@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am a developer proficient in Go, Solidity, and Python, with experience in distributed systems and a passion for low-level programming. Throughout my career, I've had the opportunity to create web applications with microservices architecture, work on embedded systems, and blockchain applications. My main focus now is on blockchain, cryptography, and deep learning.
+I am a developer proficient in Go, Solidity, and Python, with experience in distributed systems and a passion for low-level programming. Throughout my career, I've had the opportunity to create web applications, work on embedded systems, and blockchain applications. My main focus now is on blockchain, cryptography, and deep learning.
 
 Academic Background:
 
