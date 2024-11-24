@@ -5,5 +5,5 @@ I am a developer proficient in Go, Solidity, and Python, with experience in dist
 Academic Background:
 
 - B.Sc. in Computer Engineering (in progress) at Inteli – Institute of Technology and Leadership.
-- Summer Research Program in Science and Engineering at Technion – Israel Institute of Technology, where I worked on drones.
+- Summer Research Program in Science and Engineering at Technion – Israel Institute of Technology.
 - Academic Exchange Program at Technion – Israel Institute of Technology, studying Computer Engineering with a focus on Deep Learning.
