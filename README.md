@@ -6,4 +6,4 @@
 **Academic Background:**
 - B.Sc. in Computer Engineering **[ in progress ]** at Inteli – Institute of Technology and Leadership;
 - Summer Research Program in Science and Engineering at Technion – Israel Institute of Technology;
-- Academic Exchange Program in Computer Engineering **[ in progress ]** at Technion – Israel Institute of Technology;
+- Academic Exchange Program **[ in progress ]** at Technion – Israel Institute of Technology;
