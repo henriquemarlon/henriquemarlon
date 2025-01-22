@@ -1,4 +1,4 @@
 ### Hello 👋
 
-- I am a developer proficient in Go, Solidity, and Python, with experience in distributed systems;
-- My main focus now is on blockchain (ly2), cryptography (learning zk) and optimization;
+- I am a developer with experience in distributed systems;
+- My main focus now is on blockchain, cryptography, and hardware acceleration;
