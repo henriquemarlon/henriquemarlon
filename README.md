@@ -1,3 +1,3 @@
 - Hi, I'm **Henrique Marlon 🐧**
 - I am a software engineer with experience in blockchain and distributed systems
-- My main focus now is on cryptography < fhe - zk >, machine learning, and hardware acceleration
+- My main focus now is on cryptography < fhe - zk >, machine learning, and blockchain systems
