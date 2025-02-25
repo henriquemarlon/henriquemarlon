@@ -1,2 +1,1 @@
 - Hi, I'm **Henrique Marlon 🐧**
-- I am a software engineer with experience in blockchain and distributed systems
