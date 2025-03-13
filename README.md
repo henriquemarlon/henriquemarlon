@@ -1,4 +1,6 @@
-## Hi there 👋
+- Hi, I'm **Henrique Marlon 🐧**
+- I am a developer with experience in blockchain and distributed systems;
+- I am studying cryptography [ fhe - zk ], blockchain [ ethereum ], and hardware acceleration;
 
 <!--
 **henriquemarlon/henriquemarlon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
