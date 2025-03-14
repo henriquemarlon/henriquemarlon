@@ -1,3 +1,3 @@
 - Hi, I'm **Henrique Marlon 🐧**
-- I am a developer with experience in blockchain and distributed systems;
-- I am studying cryptography < fhe - zk >, blockchain < ethereum >, and hardware acceleration;
+- I'm a developer with experience in blockchain and distributed systems;
+- Currently studying cryptography < fhe - zk >, blockchain < ethereum >, and hardware acceleration;
